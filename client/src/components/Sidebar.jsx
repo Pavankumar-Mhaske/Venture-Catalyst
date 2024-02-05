@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import React, { useState } from "react";
+import { Link, useNavigate } from "react-router-dom";
 
-import { logo, sun } from '../assets';
-import { navlinks } from '../constants';
+import { logo, sun } from "../assets";
+import { navlinks } from "../constants";
 
-const Icon = ({ styles, name, imgUrl, isActive, disabled, handleClick }) => {
+const Icon = ({ styles, name, imgUrl, isActive, disabled, handleClick }) => (
   <div
     className={`w-[48px] h-[48px] rounded-[10px] ${
       isActive && isActive === name && "bg-[#2c2f32]"
@@ -22,8 +22,8 @@ const Icon = ({ styles, name, imgUrl, isActive, disabled, handleClick }) => {
         className={`w-1/2 h-1/2 ${isActive !== name && "grayscale"}`}
       />
     )}
-  </div>;
-};
+  </div>
+);
 
 const Sidebar = () => {
   const navigate = useNavigate();
