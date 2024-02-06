@@ -5,13 +5,13 @@ export const daysLeft = (deadline) => {
     return remainingDays.toFixed(0);
   };
   
-  export const calculateBarPercentage = (goal, raisedAmount) => {
+export const calculateBarPercentage = (goal, raisedAmount) => {
     const percentage = Math.round((raisedAmount * 100) / goal);
   
     return percentage;
   };
   
-  export const checkIfImage = (url, callback) => {
+export const checkIfImage = (url, callback) => {
     const img = new Image();
     img.src = url;
   

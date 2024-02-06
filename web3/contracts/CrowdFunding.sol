@@ -23,9 +23,9 @@ contract CrowdFunding {
 
         // 🚗🚙🚙 funcitons for entire logic of smart contracts 🚗🚙🚙
 
-        //  create a compaign
+        //  create a campaign
         // _owner : here the _ specifies that it is a local variable(it's for readability and to avoid naming conflicts with global variables.)
-        function createCompaign( address _owner, string memory _title, string memory _description, uint256 _target, uint256 _deadline, string memory _image  ) public returns (uint256) {
+        function createCampaign( address _owner, string memory _title, string memory _description, uint256 _target, uint256 _deadline, string memory _image  ) public returns (uint256) {
             Campaign storage campaign = campaigns[numberOfCampaigns];
 
             // is everything okay ? 
@@ -41,13 +41,13 @@ contract CrowdFunding {
 
             numberOfCampaigns++;
 
-            // return index of most newly created compaign 
+            // return index of most newly created campaign 
             return numberOfCampaigns - 1;
 
 
         }
 
-        // donate to compaign
+        // donate to campaign
         // payable : it is a special type of function that can send some crypto to the contract
         function donateToCampaign( uint256 _id ) public payable {
             uint256 amount = msg.value;
