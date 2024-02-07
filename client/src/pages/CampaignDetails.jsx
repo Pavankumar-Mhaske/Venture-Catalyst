@@ -38,7 +38,7 @@ const CampaignDetails = () => {
 
   return (
     <div>
-      {isLoading && "Loading..."}
+      {isLoading && <Loader />}
 
       <div className="w-full flex md:flex-row flex-col mt-10 gap-[30px]">
         <div className="flex-1 flex-col">
