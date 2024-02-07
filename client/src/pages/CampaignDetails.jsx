@@ -45,7 +45,7 @@ const CampaignDetails = () => {
           <img
             src={state.image}
             alt="campaign"
-            className="w-full h-[410px] object-cover rounded-xl"
+            className="w-full h-[410px] lg:h-[510px] object-cover rounded-xl"
           />
           <div className="relative w-full h-[5px] bg-[#3a3a43] mt-2">
             <div
@@ -61,7 +61,7 @@ const CampaignDetails = () => {
           </div>
         </div>
 
-        <div className="flex md:w-[150px] w-full flex-wrap justify-between gap-[30px]">
+        <div className="flex md:w-[150px] w-full flex-wrap justify-between gap-[30px] lg:gap-[80px]">
           <CountBox title="Days Left" value={remainingDays} />
           <CountBox
             title={`Raised of ${state.target}`}
