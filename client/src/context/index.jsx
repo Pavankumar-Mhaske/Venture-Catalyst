@@ -49,7 +49,7 @@ export const StateContextProvider = ({ children }) => {
       title: campaign.title,
       description: campaign.description,
       target: ethers.utils.formatEther(campaign.target.toString()),
-      deadline: campaign.deadline.toString(),
+      deadline: campaign.deadline.toNumber(),
       amountCollected: ethers.utils.formatEther(
         campaign.amountCollected.toString()
       ),
