@@ -13,60 +13,70 @@
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Home - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![1](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/87c8be79-ad47-426c-90e7-5a66c2af8964)
 
 ![Home](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/c120cc85-a128-4eb0-b06f-0d336eef242e)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Explore - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![2](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/ace423ee-8c0e-432c-8431-f9dd83008cf4)
 
 ![Explore](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/c83b5337-8640-4fd4-b70c-bf2cf7150858)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - People - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![3](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/0f03b5c1-4041-4a6c-ab0a-146bd89cedc4)
 
 ![People](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/2646a0fd-6c48-40f8-bcc2-fee9e3bbc27b)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Saved - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![4](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/f984767a-626a-473c-9167-557d9d8b2bb9)
 
 ![Saved](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/0a42f57c-08d2-4bb8-9b0c-7b3850787c09)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Create Post - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![5](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/c0255bed-e1ae-4f58-b0a8-fe29a4183fd2)
 
 ![Create Post](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/23278eec-6ad4-463f-8b4d-523d8f218078)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Profile - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![6](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/e13bb103-eb78-4409-b2ff-18413a76dea8)
 
 ![Profile](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/b25df67c-7631-4bb7-8633-3fd970dccd35)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Detailed Post - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![7](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/47152be2-bc61-4d75-aac4-00bbf8b5b56b)
 
 ![Detailed Post](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/72d8e720-2255-49ae-8bae-31f663652a7d)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Users Account - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![8](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/32817099-d8bc-4368-93fe-54519897c7a5)
 
 ![Users Account](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/05c66fae-d3e7-41a3-9959-50c91ec96c1b)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - LogIn - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![9](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/6067b183-7502-4219-98fb-54056d61fd91)
 
 ![LogIn](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/5aba06b1-0944-4a98-89fd-ed151dce27af)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - SignUp - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+![10](https://github.com/Pavankumar-Mhaske/Venture-Catalyst/assets/104865937/f227de0c-848d-43f3-a96e-744233df5196)
 
 ![SignUp](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/e84b7a9e-1dfe-41d9-a428-6ac8ad33a2d0)
 
